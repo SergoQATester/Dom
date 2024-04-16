@@ -16,8 +16,7 @@ c = spam + a + b
 print(c)
 
 
-
-
+norm = 88
 
 
 
